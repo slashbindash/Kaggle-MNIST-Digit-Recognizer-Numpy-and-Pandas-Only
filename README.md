@@ -51,7 +51,8 @@ There are many tweaks and augmentations one could do to make a model with simila
 - [He initialization] for ReLU activations
 - Decreasing the learning rate for greater stability given a more complex model.
 
-
+##  Confusion Matrix Example
+![Confusion Matrix](/confusion_matrix.png)
 
 
 ####
